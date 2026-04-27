@@ -229,7 +229,7 @@ class Raghu:
 | Platform | Link |
 |----------|------|
 | 📧 Email | [raghuveerachinthala@gmail.com](mailto:raghuveerachinthala@gmail.com) |
-| 💼 LinkedIn | [Raghuveera Chinthala](https://linkedin.com/in/Raghuveera-Chinthala) |
+| 💼 LinkedIn | [Raghuveera Chinthala]([https://linkedin.com/in/Raghuveera-Chinthala](https://www.linkedin.com/in/raghuveera-chinthala-2aa01239a/)) |
 | 🐙 GitHub | [raghu2112](https://github.com/raghu2112) |
 | 📞 Phone | +91 74164 31640 |
 
