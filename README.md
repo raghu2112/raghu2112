@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Raghu!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
-
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Raghu!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Flask+%7C+ML+%F0%9F%A7%A0;B.Tech+AI+%26+ML+%40+Osmania+University+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br>
